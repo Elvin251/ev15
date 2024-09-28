@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: red;
+}
+.bos{
+   width: 35vw; 
+   height: 70vh;
+   background-image: url(./Ekran\ görüntüsü\ 2024-09-28\ 155146.png);
+   background-size: cover;
+   background-repeat: no-repeat;
+   position: relative;
+   margin-top: 100px;
+   margin-left: 250px;
+}
+.small{
+    width: 30vw;
+    height: 60vh;
+    background-color:white;
+    
+    position: absolute;
+    right: -300px;
+    top: 50px;
+  padding: 50px;
+    padding-top: 50px;
+}
+
